@@ -1,13 +1,20 @@
-PHOTO SOURCES — hs-032-shorts Shorts Construction (Wave 7 2026-09-22 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-032-shorts Shorts Construction (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential kitchen or bath remodel (verified Unsplash Wave7)
-services-trade.jpg — kitchen/bath remodel interior (verified)
-job041-* — kitchen B/A typical (verified)
-job038-* — bath B/A typical (verified)
-job052-* — remodel/addition typical (verified)
-people-* — tools/jobsite — NOT owner face
-coverage-house.jpg — residential exterior
-Rejected: stock faces, window-cleaner mislabels, Hanwha-crew workers-as-pipes — not used
-Sources: Wave7 Unsplash/Pexels verified 2026-09-22 PT + prior Wave library
-Note: not Mechanicsville MD shortsconstruction.com; not Modesto lunaplumbing.com
+hero-site.jpg <- cr0925/rem-kitchen-farmhouse.jpg : Free white kitchen interior design (rawpixel CC0 https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow)
+services-trade.jpg <- cr0925/rem-framing-interior.jpg : House framing (rawpixel CC0 https://www.rawpixel.com/image/4029901/photo-image-wood-construction-building)
+people-crew.jpg <- cr0925/rem-hammer.jpg : Hammer Tool (stocksnap CC0 https://stocksnap.io/photo/hammer-tool-XQWS5SOONG)
+people-marek.jpg <- cr0925/rem-framing-plans.jpg : Housing rehabilitation (rawpixel CC0 https://www.rawpixel.com/image/9659003/housing-rehabilitation)
+people-tom.jpg <- cr0925/rem-kitchen-island.jpg : Free kitchen interior design image (rawpixel CC0 https://www.rawpixel.com/image/5919921/photo-image-light-public-domain-shadow)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+rem-demo-lumber.jpg <- cr0925/rem-demo-lumber.jpg : Old boards with nails from home renovation demolition (wordpress CC0 https://wordpress.org/photos/photo/42263030bb/)
+rem-kitchen-farmhouse.jpg <- cr0925/rem-kitchen-farmhouse.jpg : Free white kitchen interior design (rawpixel CC0 https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow)
+rem-level-hands.jpg <- cr0925/rem-level-hands.jpg : Level Construction (stocksnap CC0 https://stocksnap.io/photo/level-construction-5HW69DS6ER)
+rem-bath-tub.jpg <- cr0925/rem-bath-tub.jpg : Bathroom in Luxury Home (flickr PDM https://www.flickr.com/photos/96511847@N04/10798221476)
+rem-framing-single.jpg <- cr0925/rem-framing-single.jpg : rem-framing-single (rawpixel CC0 https://www.rawpixel.com/image/6055151/free-public-domain-cc0-photo)
+rem-room-drywall.jpg <- cr0925/rem-room-drywall.jpg : Room Window (stocksnap CC0 https://stocksnap.io/photo/room-window-T3QP4DRXS2)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: shortsconstruction.com is a Maryland firm, NOT linked or offered. No license number on page.
