@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen and bath remodels, renovations, and general building. Across Corona and the Inland Empire. Gerald looks at the job first and puts the price in writing.';
+            'Kitchen and bath remodels, renovations, and general building in Corona. Gerald looks at the job first and puts the price in writing.';
         }
       }
     },
